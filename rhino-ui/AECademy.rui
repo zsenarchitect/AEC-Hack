@@ -9,7 +9,7 @@
   </extend_rhino_menus>
   <menus />
   <tool_bar_groups>
-    <tool_bar_group guid="e01d25dc-29e9-4c62-8026-fdcbce3df477" dock_bar_guid32="00000000-0000-0000-0000-000000000000" dock_bar_guid64="91c68e56-17f1-419e-9fbb-43c6b993b9f2" active_tool_bar_group="5941491c-09b0-42cf-bfb1-ad5225dfe645" single_file="False" hide_single_tab="False" point_floating="1096,286">
+    <tool_bar_group guid="e01d25dc-29e9-4c62-8026-fdcbce3df477" dock_bar_guid32="00000000-0000-0000-0000-000000000000" dock_bar_guid64="91c68e56-17f1-419e-9fbb-43c6b993b9f2" active_tool_bar_group="5941491c-09b0-42cf-bfb1-ad5225dfe645" single_file="False" hide_single_tab="False" point_floating="876,262">
       <text>
         <locale_1033>AECademy</locale_1033>
       </text>
@@ -19,7 +19,7 @@
         </text>
         <tool_bar_id>7021bf06-2a4e-48d2-bc83-dd4224436550</tool_bar_id>
       </tool_bar_group_item>
-      <dock_bar_info dpi_scale="125" dock_bar="False" docking="True" horz="False" visible="True" floating="True" mru_float_style="8192" bar_id="59550" mru_width="868" point_pos="-2,-2" float_point="1096,286" rect_mru_dock_pos="0,0,0,0" dock_location_u="59419" dock_location="top" float_size="185,65" />
+      <dock_bar_info dpi_scale="125" dock_bar="False" docking="True" horz="False" visible="True" floating="True" mru_float_style="8192" bar_id="59550" mru_width="868" point_pos="-2,-2" float_point="876,262" rect_mru_dock_pos="0,0,0,0" dock_location_u="59419" dock_location="top" float_size="172,65" />
     </tool_bar_group>
   </tool_bar_groups>
   <tool_bars>
