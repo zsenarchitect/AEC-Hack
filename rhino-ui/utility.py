@@ -28,6 +28,7 @@ def fetch_from_web():
                     "base64ImageData": "string"}
 
 
+
     data = {"data":data_to_send,
             "url":url}
     with open(get_local_folder() + "\\request_data.json","w") as json_file:
