@@ -34,7 +34,7 @@ class AECedamyUI(Eto.Forms.Form):
     def __init__(self):
  
         self.data = None
-        self.main_url = "https://github.com/zsenarchitect/AEC-Hack"
+        self.main_url = "https://aecademyclient.azurewebsites.net/"
         
         
         # Basic form initialization

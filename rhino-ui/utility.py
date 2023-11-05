@@ -33,6 +33,10 @@ def fetch_from_web():
     with open(get_local_folder() + "\\request_data.json","w") as json_file:
         json.dump(data, json_file)
 
+    if os.path.exists(get_local_folder() + "\\return_data.json"):
+        os.remove(get_local_folder() + "\\return_data.json")
+        
+        
     safety = 0
     while True:
         print (safety)

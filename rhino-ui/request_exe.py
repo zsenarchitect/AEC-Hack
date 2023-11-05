@@ -10,8 +10,7 @@ def main():
         
     # Send a POST request
     
-    if os.path.exists(folder + "\\return_data.json"):
-        os.remove(folder + "\\return_data.json")
+
      
     data_to_send = data.get("data", None)
     url = data.get("url", None)
