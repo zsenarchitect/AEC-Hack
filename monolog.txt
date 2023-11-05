@@ -1,8 +1,10 @@
 Title: AECademy HUB — A Virtual Time Capsule Accessible by Sketch
 
-The mission is to crowdsource knowledge across generations of AEC young graduates.
+
 
 Many of us come from educational backgrounds with minimal overlap between classes. Since entering the professional world, we've realized there's a gap in the professional knowledge we were exposed to early on. Perhaps you feel this now when you hire a junior engineer and find they lack the skills you expected. If only there was a way to travel back in time and impart this knowledge when we were younger.
+
+The mission is to crowdsource knowledge across generations of AEC young graduates.
 
 A large knowledge base is not a new concept. There are countless internal office resources and numerous training platforms on the market. However, what sets AECademy HUB apart is its focus on the student community. The nature of academia means there is never a stable group to pass down knowledge.
 
